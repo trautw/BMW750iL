@@ -4,6 +4,11 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 31.03.2017 ABS Sensoren hinten getauscht
+### 31.03.2017 Scheibenwischergummis erneuert
+### 29.03.2017 Steinschlag in Frontscheibe repariert
+### 29.03.2017 Tank links geklebt
+
 ### 3 Schrauben und 1 Unterlegblech an Achse hinten links ersetzt
 ### Schelle links hinter Mittelschalldämpfer ersetzt
 ### 11.02.2017 
