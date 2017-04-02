@@ -4,6 +4,8 @@ title: Dieses Auto
 permalink: /object/
 ---
 
+### 02.04.2017 Erster Besuch eines 7er Treffens
+
 ### 02.2017 TÜV
 
 ### 15.11.2015 Kauf 1500,00
