@@ -10,6 +10,7 @@ overview: true
 * Zylinder: 12
 * Hubraum: 5379 cm³
 * HSN/TSN: 0005 5460007
+* Produktionsdatum: September 1995
 * Erstzulassung: 18.09.1995
 * Fahrgestellnummer: WBAGK21000DH38229
 * Typ: 750 iL
