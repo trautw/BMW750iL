@@ -4,6 +4,12 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 17.05.2017 Falz aussen der Tür vorne rechts mit Fertan behandelt wegen Rost
+### 29.04.2017 Beule in Kofferraumdeckel hinten rechts mit Kleber gezogen
+### 29.04.2017 LCM ausgetauscht
+### 29.04.2017 Chinch Eingang für Video und Audio im Kofferraum gelegt
+### 29.04.2017 Rechts und loinks hinten poliert 
+### 29.04.2017 Rechts und links hinten mit roter Knete behandelt
 ### 31.03.2017 ABS Sensoren hinten getauscht
 ### 31.03.2017 Scheibenwischergummis erneuert
 ### 29.03.2017 Steinschlag in Frontscheibe repariert
