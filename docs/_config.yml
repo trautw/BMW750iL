@@ -17,6 +17,6 @@ url: "https://trautw.github.io" # the base hostname & protocol for your site
 # Build Settings
 sass:
   sass_dir: _sass
-include: ['_pages','_fineprint']
+include: ['_pages']
 kramdown:
   input: GFM
