@@ -17,3 +17,10 @@ permalink: /more/
 * [e38.org](http://e38.org/)
 * [bimmerforum](https://www.bimmerforums.com/forum/forumdisplay.php?274-1995-2001-(E38))
 * [7-forum](http://www.7-forum.com/forum/bmw-7er-modelle/bmw-7er-modell-e38/)
+
+### FAQ
+* [Motoröl] (http://www.7er-online.de/index.php/Thread/2100-Auflistung-Motoren%C3%B6le-von-BMW/)
+
+### 7er Diebstähle in Hamburg
+* [Flughafen 2004](http://www.7-forum.com/forum/18/diebstahl-hamburg-flughafen-meines-e32-750il-26350.html)
+* [Eppendorf 2017](http://www.7-forum.com/forum/18/achtung-grauer-b9-e23-heute-gestohlen-227457.html)
