@@ -4,6 +4,17 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 07.08.2017 Lichtmaschine ausgebaut. Verschmort
+### 06.08.2017 Liegen geblieben weil Batterie leer ist
+### 05.08.2017 Megauir Black im Motorraum
+### 05.08.2017 Wäsche aussen und im Motorraum
+### 05.08.2017 Dämmung Motorhaube montiert
+### 29.07.2017 Gummiaufhängung Schalldämpfer links ersetzt, dazu CD-Wechsler, Video-Einheit demontiert
+### 29.07.2017 Klemme der Schalldämpfer Aufhängung zerbrochen
+### 26.07.2017 Stoßdämpfer vorne entrostet und mit Rostschutz versehen
+### 22.07.2017 Stoßdämpfersatz in Königs Wusterhausen gekauft
+### 15.07.2017 Radhaus hinten rechts lackiert
+### 15.07.2017 Kotflügel links lackiert
 ### 09.06.2017 Radhaus hinten rechts Rost abgeschliffen und mit Fertan behandelt
 ### 09.06.2017 Kotflügel links mit 2000er geschliffen, geknetet, Lackreiniger
 ### 08.06.2017 DVB-T2 zum Laufen gebracht
