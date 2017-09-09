@@ -24,3 +24,16 @@ permalink: /more/
 ### 7er Diebstähle in Hamburg
 * [Flughafen 2004](http://www.7-forum.com/forum/18/diebstahl-hamburg-flughafen-meines-e32-750il-26350.html)
 * [Eppendorf 2017](http://www.7-forum.com/forum/18/achtung-grauer-b9-e23-heute-gestohlen-227457.html)
+
+## Reparaturanleitung
+### Hutablage
+Anleitung:
+1. Sitzbank herausnehmen, die ist nur gesteckt. Vorne anheben, eventuelle Sitzheizung ausstecken und heraus nehmen.
+2. Schrauben der Rücklehne raus schrauben (SW10) je eine links und rechts der Mittelarmlehne unten (Muttern) 2 Schrauben je links und rechts am Schweller
+3. Rücklehne unten aushaken und nach oben schieben. Nach vorne ablegen
+4. Innenbeleuchtung der C-Säulen ausclipsen, Stecker abstecken und die darunter befindlichen Schrauben (SW8) ausschrauben und C-Säulenabdeckung herausnehmen
+5. die Clip's aus der Hutablage öffnen und herausnehmen, hierzu den inneren Teil des Clip's heraus ziehen
+6. Hutablage heraus nehmen
+
+### Fahrwerk
+https://www.youtube.com/playlist?list=PLEt8YnTgFZANVNRCqEbOmn-j1NZ2CiKE3
