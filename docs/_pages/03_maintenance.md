@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### XX.09.2017 Stoßdämpfer und Federn vorne ersetzt. Jetzt EDC.
+### XX.09.2017 Seitenspiegel ersetzt
 ### 07.08.2017 Lichtmaschine ausgebaut. Verschmort
 ### 06.08.2017 Liegen geblieben weil Batterie leer ist
 ### 05.08.2017 Vorne linke Hochtöner durch Andrian Audio ersetzt
