@@ -37,3 +37,6 @@ Anleitung:
 
 ### Fahrwerk
 https://www.youtube.com/playlist?list=PLEt8YnTgFZANVNRCqEbOmn-j1NZ2CiKE3
+
+### Teile
+* [Seitenspiegel Schnecke](http://www.sehling.net/zahnraeder-kegelraeder-zahnstangen-schnecken/schnecken-mo-02-mo-075/schnecken-1gaengig-rechts/schnecke-modul-02-rechts-d35mm.html)
