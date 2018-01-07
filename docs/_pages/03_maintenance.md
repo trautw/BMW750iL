@@ -4,6 +4,8 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 07.12.2017 Radbolzen ersetzt durch richtige Länge
+### xx.12.2017 Stoßdämpfer hinten ersetzt durch Isku 800EUR
 ### XX.09.2017 Stoßdämpfer und Federn vorne ersetzt. Jetzt EDC.
 ### XX.09.2017 Seitenspiegel ersetzt
 ### 07.08.2017 Lichtmaschine ausgebaut. Verschmort
