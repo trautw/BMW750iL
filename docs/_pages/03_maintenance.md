@@ -4,6 +4,12 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 04.06.2018 Hinterräder erneuert Hankook EUR 258,-
+### XX.05.2018 Querlenker vorne rechts nachgezogen
+### XX.05.2018 Ventil-/Pumpenbaugruppe befestigt
+### XX.05.2018 Reinigungsmittel Behälter befestigt
+### XX.05.2018 ABS Sensor vorne links ersetzt
+### XX.05.2018 Batterie ersetzt
 ### 07.12.2017 Radbolzen ersetzt durch richtige Länge
 ### xx.12.2017 Stoßdämpfer hinten ersetzt durch Isku 800EUR
 ### XX.09.2017 Stoßdämpfer und Federn vorne ersetzt. Jetzt EDC.
