@@ -4,7 +4,7 @@ title: Wartung
 permalink: /maintenance/
 ---
 
-### 04.06.2018 Hinterräder erneuert Hankook EUR 258,-
+### 04.06.2018 Hinterräder erneuert Hankook EUR 285,-
 ### XX.05.2018 Querlenker vorne rechts nachgezogen
 ### XX.05.2018 Ventil-/Pumpenbaugruppe befestigt
 ### XX.05.2018 Reinigungsmittel Behälter befestigt
