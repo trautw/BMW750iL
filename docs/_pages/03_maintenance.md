@@ -4,6 +4,9 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 07.09.2019 Poti vorne rechts für Leuchtweitenregelungs ersetzt
+### 31.08.2019 Hydraulikleitung hinten links abgedichtet
+### 31.08.2019 Abdeckung Benzinfilter vorne rechts ersetzt
 ### 04.06.2018 Hinterräder erneuert Hankook EUR 285,-
 ### XX.05.2018 Querlenker vorne rechts nachgezogen
 ### XX.05.2018 Ventil-/Pumpenbaugruppe befestigt
