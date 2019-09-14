@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 14.09.2019 Zündkerzen rechts erneuert (bis auf die 3.)
+### 14.09.2019 Poti vorne rechts nachgestellt
+### 14.09.2019 Intensivreiniger nachgefüllt
+### 14.09.2019 Beifahrertür wieder gängig gemacht
 ### 07.09.2019 Poti vorne rechts für Leuchtweitenregelung ersetzt
 ### 31.08.2019 Hydraulikleitung hinten links abgedichtet
 ### 31.08.2019 Abdeckung Benzinfilter vorne rechts ersetzt
