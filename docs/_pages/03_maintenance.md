@@ -4,6 +4,14 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 12.01.2019 Rechte Seite mit Rot/Weiss maschinell poliert
+### 12.10.2019 Farbstoff in Klimaanlage gefüllt
+### 12.10.2019 Klimaanlage nachgefüllt
+### 08.10.2019 Scheinwerfer eingestellt
+### 05.10.2019 Rechte Seite mit 3000er Sandpapier geglättet
+### 05.10.2019 Mutter nachgezogen: Stoßdämpfer vorne rechts
+### 05.10.2019 Blinker vorne erneuert
+### 05.10.2019 Restliche Zündkerzen erneuert
 ### 14.09.2019 Zündkerzen rechts erneuert (bis auf die 3.)
 ### 14.09.2019 Poti vorne rechts nachgestellt
 ### 14.09.2019 Intensivreiniger nachgefüllt
