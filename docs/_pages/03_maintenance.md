@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 06.06.2020 Ölwechsel 5W-40 Helix HX7
+### 04.06.2020 Neue Klopsensoren
+### 05.2020 Ventildeckeldichtungen erneuert
+### Neuer Tank
 ### 12.01.2019 Rechte Seite mit Rot/Weiss maschinell poliert
 ### 12.10.2019 Farbstoff in Klimaanlage gefüllt
 ### 12.10.2019 Klimaanlage nachgefüllt
