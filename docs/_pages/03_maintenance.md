@@ -4,6 +4,10 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 04.02.2023 Radsensor hinten rechts ersetzt
+### 01.2023 Federlager hinten rechts gebrochen
+### 01.2023 Marderschreck installiert
+### 01.2023 Radsensor vorne links ersettz
 ### 06.06.2020 Ölwechsel 5W-40 Helix HX7
 ### 04.06.2020 Neue Klopsensoren
 ### 05.2020 Ventildeckeldichtungen erneuert
