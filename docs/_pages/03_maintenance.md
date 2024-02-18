@@ -6,6 +6,9 @@ permalink: /maintenance/
 
 ### 18.02.2024 Rückleuchten ersetzt
 ### 11.02.2024 Marderschreck ersetzt
+### 11.02.2024 Rechten Scheiwerfer gelüftet wegen Feuchtigkeit
+### 2023 Schläuche im Tank ersetzt
+### 2023 Stossdämpfer hinten ersetzt
 ### 04.02.2023 Radsensor hinten rechts ersetzt
 ### 01.2023 Federlager hinten rechts gebrochen
 ### 01.2023 Marderschreck installiert
