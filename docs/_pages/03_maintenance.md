@@ -4,6 +4,7 @@ title: Wartung
 permalink: /maintenance/
 ---
 
+### 22.10.2025 Batterie, Handbremsbacken, Schweller und Radlauf Isku EUR 2629,90
 ### 18.02.2024 Rückleuchten ersetzt
 ### 11.02.2024 Marderschreck ersetzt
 ### 11.02.2024 Rechten Scheiwerfer gelüftet wegen Feuchtigkeit
