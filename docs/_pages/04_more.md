@@ -6,6 +6,7 @@ permalink: /more/
 
 * [TIS](https://www.newtis.info/tisv2/a/de/e38-750i-lim/)
 * [Teilekatalog](http://de.bmwfans.info/vin/decoder?vin=DH38229)
+* [Teile Huber](https://www.hubauer-shop.de/de/autoteile/7er-teilekatalog/limousine-7er/gk21-e38-m73/)
 * [Linksammlung](http://www.7-forum.com/links/index1.php?site=vcat&cat=4)
 * [Beschreibung E38](http://www.7-forum.com/modelle/e38/)
 * [Stoßdämpfer](https://nagengast.pl/de/produkt/bmw-7-e38-94-01-stossdaempfer-edc-vorne-rechts/)
